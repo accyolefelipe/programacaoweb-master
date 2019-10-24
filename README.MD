@@ -1,2 +1,2 @@
 # programacaoweb-by-felipe
- API exercicio
+Exercicio de Criação de Entidades,Repositorios,Seviços e Querys.
